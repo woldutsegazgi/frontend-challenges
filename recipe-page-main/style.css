@@ -79,7 +79,8 @@ table {
   border-collapse: collapse;
 }
 tr {
-  border: 1px solid #98632e;
+  border-bottom: 1px solid #98632e;
+
 }
 
 td {
